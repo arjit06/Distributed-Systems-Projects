@@ -1,5 +1,5 @@
 # DSCD-Assigments
-
+All these assignments had to be hosted on Google Cloud to provide the simulation of a Distributed System. <br>
 ## Assignment 1
 This assignment has three parts:-<br>
 <ul>
