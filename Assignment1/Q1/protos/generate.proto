@@ -1,0 +1,220 @@
+syntax = "proto3";
+
+package shoppingplatform;
+
+import "google/protobuf/empty.proto";
+
+
+service Market {
+  // Seller related methods
+  rpc RegisterSeller(RegisterSellerRequest) returns (RegisterSellerResponse);
+  rpc SellItem(SellItemRequest) returns (SellItemResponse);
+  rpc UpdateItem(UpdateItemRequest) returns (UpdateItemResponse);
+  rpc DeleteItem(DeleteItemRequest) returns (DeleteItemResponse);
+  rpc DisplaySellerItems(DisplaySellerItemsRequest) returns (DisplaySellerItemsResponse);
+  
+  // Buyer related methods
+  rpc SearchItem(SearchItemRequest) returns (SearchItemResponse);
+  rpc BuyItem(BuyItemRequest) returns (BuyItemResponse);
+  rpc AddToWishList(AddToWishListRequest) returns (AddToWishListResponse);
+  rpc RateItem(RateItemRequest) returns (RateItemResponse);
+  
+}
+
+
+service Seller {
+  rpc HandleSellerNotifications(NotifySellerRequest) returns (google.protobuf.Empty);
+}
+
+service Buyer {
+  rpc HandleBuyerNotifications(NotifyClientRequest) returns (google.protobuf.Empty);
+}
+
+
+// Request message for RegisterSeller RPC
+message RegisterSellerRequest {
+  string seller_address = 1; // Format ip:port
+  string uuid = 2;
+}
+
+// Response message for RegisterSeller RPC
+message RegisterSellerResponse {
+  enum ResponseStatus {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  ResponseStatus status = 1;
+}
+
+// Request message for SellItem RPC
+message SellItemRequest {
+  string uuid = 1;
+  string name = 2;
+  oneof category {
+    bool is_electronics = 3; 
+    bool is_fashion = 4; 
+    bool is_others = 5;
+  }
+  string description = 6;
+  int32 quantity = 7; 
+  float price = 8;
+}
+
+// Response message for SellItem RPC
+message SellItemResponse {
+  enum ResponseStatus {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  ResponseStatus status = 1;
+  int32 item_id = 2; // Unique item ID assigned by the market
+}
+
+// Request message for UpdateItem RPC
+message UpdateItemRequest {
+  int32 item_id = 1;
+  string uuid = 2;
+  float new_price = 3;
+  int32 new_quantity = 4;
+}
+
+// Response message for UpdateItem RPC
+message UpdateItemResponse {
+  enum ResponseStatus {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  ResponseStatus status = 1;
+}
+
+// Request message for DeleteItem RPC
+message DeleteItemRequest {
+  int32 item_id = 1;
+  string uuid = 2;
+}
+
+// Response message for DeleteItem RPC
+message DeleteItemResponse {
+  enum ResponseStatus {
+    SUCCESS = 0;
+    FAIL = 1;
+  }
+  ResponseStatus status = 1;
+}
+
+// Request message for DisplaySellerItems RPC
+message DisplaySellerItemsRequest {
+  string uuid = 1;
+}
+
+// Response message for DisplaySellerItems RPC
+message DisplaySellerItemsResponse {
+  message Item {
+    int32 item_id = 1;
+    string name = 2;
+    string category = 3;
+    string description = 4;
+    int32 quantity = 5;
+    float price = 6;
+    float rating = 7; // Average rating of the item
+  }
+  repeated Item items = 1;
+}
+
+
+// --------------------------------------------------------------------------------------------
+  
+  // The message for a request to search items
+  message SearchItemRequest {
+	string item_name = 1; // Leave blank to search for all items
+	string category = 2; // Use "ANY" to search across all categories
+  }
+  
+  // The message for a response from searching items
+  message SearchItemResponse {
+	message Item {
+	  int32 item_id = 1;
+	  string name = 2;
+	  string category = 3;
+	  string description = 4;
+	  int32 quantity = 5;
+	  float price = 6;
+	  float rating = 7;
+	  string seller_address = 8;
+	}
+	repeated Item items = 1; // List of items that match the search criteria
+  }
+  
+  // The message for a request to buy an item
+  message BuyItemRequest {
+	int32 item_id = 1;
+	int32 quantity = 2;
+	string buyer_address = 3; // Format ip:port
+  }
+  
+  // The message for a response from buying an item
+  message BuyItemResponse {
+	enum ResponseStatus {
+	  SUCCESS = 0;
+	  FAIL = 1;
+	}
+	ResponseStatus status = 1;
+  }
+  
+  // The message for a request to add an item to wishlist
+  message AddToWishListRequest {
+	int32 item_id = 1;
+	string buyer_address = 2; // Format ip:port
+  }
+  
+  // The message for a response from adding an item to wishlist
+  message AddToWishListResponse {
+	enum ResponseStatus {
+	  SUCCESS = 0;
+	  FAIL = 1;
+	}
+	ResponseStatus status = 1;
+  }
+  
+  // The message for a request to rate an item
+  message RateItemRequest {
+	int32 item_id = 1;
+	int32 rating = 2; // Rating should be an integer between 1 and 5
+	string buyer_address = 3; // Format ip:port
+  }
+  
+  // The message for a response from rating an item
+  message RateItemResponse {
+	enum ResponseStatus {
+	  SUCCESS = 0;
+	  FAIL = 1;
+	}
+	ResponseStatus status = 1;
+  }
+
+
+// -------------------------------------------------------------------------------------------------
+
+
+// NotifySellerResponse message for Seller service
+// Contents : Buyer ka address, item_id, item_name, quantity
+
+// NotifyClientResponse message for Buyer service
+// Contents : Seller ka address, new price , new quantity of the item jinhone wishlist main register kara hain
+
+// --------------------------------------------------------------------------------------------
+
+
+message NotifyClientRequest{
+  string seller_address = 1;
+  float new_price = 2;
+  int32 new_quantity = 3;
+  int32 item_id = 4;
+}
+
+message NotifySellerRequest{
+  string buyer_address = 1;
+  int32 item_id = 2;
+  string item_name = 3;
+  int32 quantity = 4;
+}
