@@ -30,6 +30,3 @@ A ZeroMQ-based group messaging app includes a central message server, groups, an
 
 ### PART 3: Building a YouTube-like application with RabbitMQ
 The YouTube-like application built with RabbitMQ consists of three main components: YouTuber, User, and YouTubeServer. YouTubers publish videos, Users subscribe/unsubscribe to YouTubers and receive notifications, while YouTubeServer manages requests and notifications. YoutubeServer.py handles user login, subscription, and video upload requests, notifying users on new uploads. Youtuber.py publishes videos to the server, and User.py manages subscriptions and receives notifications. The flow involves starting YouTubeServer.py, running Youtuber.py and User.py simultaneously, with users receiving real-time notifications on subscribed YouTuber uploads. Communication occurs solely via RabbitMQ message queues. <br><br><br><br>
-
-
-## Assignment 2
