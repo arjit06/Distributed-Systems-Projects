@@ -1,7 +1,7 @@
-# DSCD-Assigments
-
-## Assignment 1
-This assignment has three parts:-<br>
+# DSCD-Projects
+All these assignments had to be hosted on Google Cloud to provide the simulation of a Distributed System. <br>
+## Project 1
+This project consists of  three parts:-<br>
 <ul>
 <li>Using gRPC to implement an online shopping platform</li>
 <li>Using ZeroMQ to implement a group messaging application (think of groups in WhatsApp)</li>
@@ -30,6 +30,3 @@ A ZeroMQ-based group messaging app includes a central message server, groups, an
 
 ### PART 3: Building a YouTube-like application with RabbitMQ
 The YouTube-like application built with RabbitMQ consists of three main components: YouTuber, User, and YouTubeServer. YouTubers publish videos, Users subscribe/unsubscribe to YouTubers and receive notifications, while YouTubeServer manages requests and notifications. YoutubeServer.py handles user login, subscription, and video upload requests, notifying users on new uploads. Youtuber.py publishes videos to the server, and User.py manages subscriptions and receives notifications. The flow involves starting YouTubeServer.py, running Youtuber.py and User.py simultaneously, with users receiving real-time notifications on subscribed YouTuber uploads. Communication occurs solely via RabbitMQ message queues. <br><br><br><br>
-
-
-## Assignment 2
