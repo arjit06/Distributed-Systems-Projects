@@ -1,7 +1,7 @@
-# DSCD-Assigments
+# DSCD-Projects
 All these assignments had to be hosted on Google Cloud to provide the simulation of a Distributed System. <br>
-## Assignment 1
-This assignment has three parts:-<br>
+## Project 1
+This project consists of  three parts:-<br>
 <ul>
 <li>Using gRPC to implement an online shopping platform</li>
 <li>Using ZeroMQ to implement a group messaging application (think of groups in WhatsApp)</li>
