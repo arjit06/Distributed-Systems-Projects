@@ -1,0 +1,167 @@
+2024-03-25 02:01:34,581: Node 0 election timer timed out, Starting election.
+2024-03-25 02:01:34,811: Node 0 became the leader for term 1.
+2024-03-25 02:01:34,819: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:35,023: Leader 0 renewed lease until 1711312301.0234895
+2024-03-25 02:01:35,023 - INFO - Node 0 committed the entry No Op to state machine
+2024-03-25 02:01:36,032: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:36,154: Leader 0 renewed lease until 1711312302.1542141
+2024-03-25 02:01:37,157: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:37,268: Leader 0 renewed lease until 1711312303.2683768
+2024-03-25 02:01:38,276: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:38,335: Leader 0 renewed lease until 1711312304.3358161
+2024-03-25 02:01:39,336: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:39,361: Leader 0 renewed lease until 1711312305.3612063
+2024-03-25 02:01:40,361: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:40,401: Leader 0 renewed lease until 1711312306.401455
+2024-03-25 02:01:41,402: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:41,444: Leader 0 renewed lease until 1711312307.444426
+2024-03-25 02:01:42,446: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:42,486: Leader 0 renewed lease until 1711312308.4860036
+2024-03-25 02:01:43,486: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:43,516: Leader 0 renewed lease until 1711312309.5168536
+2024-03-25 02:01:44,519: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:44,561: Leader 0 renewed lease until 1711312310.5615726
+2024-03-25 02:01:45,562: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:45,601: Leader 0 renewed lease until 1711312311.6019309
+2024-03-25 02:01:46,605: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:46,641: Leader 0 renewed lease until 1711312312.6414125
+2024-03-25 02:01:47,642: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:47,671: Leader 0 renewed lease until 1711312313.6714423
+2024-03-25 02:01:48,674: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:48,706: Leader 0 renewed lease until 1711312314.7063818
+2024-03-25 02:01:49,709: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:49,741: Leader 0 renewed lease until 1711312315.741719
+2024-03-25 02:01:50,746: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:50,781: Leader 0 renewed lease until 1711312316.7819145
+2024-03-25 02:01:51,783: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:51,816: Leader 0 renewed lease until 1711312317.8169472
+2024-03-25 02:01:52,819: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:52,855: Leader 0 renewed lease until 1711312318.85501
+2024-03-25 02:01:53,857: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:53,911: Leader 0 renewed lease until 1711312319.9114888
+2024-03-25 02:01:54,914: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:54,949: Leader 0 renewed lease until 1711312320.9493492
+2024-03-25 02:01:55,951: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:55,996: Leader 0 renewed lease until 1711312321.9965627
+2024-03-25 02:01:57,000: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:57,029: Leader 0 renewed lease until 1711312323.0291877
+2024-03-25 02:01:58,030: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:58,056: Leader 0 renewed lease until 1711312324.0567777
+2024-03-25 02:01:59,059: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:01:59,093: Leader 0 renewed lease until 1711312325.0936897
+2024-03-25 02:02:00,096: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:00,129: Leader 0 renewed lease until 1711312326.1290357
+2024-03-25 02:02:01,132: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:01,172: Leader 0 renewed lease until 1711312327.1725605
+2024-03-25 02:02:02,180: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:02,219: Leader 0 renewed lease until 1711312328.2194939
+2024-03-25 02:02:03,220: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:03,245: Leader 0 renewed lease until 1711312329.2454166
+2024-03-25 02:02:04,249: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:04,271: Leader 0 renewed lease until 1711312330.2713654
+2024-03-25 02:02:05,273: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:05,297: Leader 0 renewed lease until 1711312331.29702
+2024-03-25 02:02:06,299: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:06,333: Leader 0 renewed lease until 1711312332.333028
+2024-03-25 02:02:07,335: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:07,357: Leader 0 renewed lease until 1711312333.3578918
+2024-03-25 02:02:08,361: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:08,386: Leader 0 renewed lease until 1711312334.386507
+2024-03-25 02:02:09,387: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:09,438: Leader 0 renewed lease until 1711312335.4385736
+2024-03-25 02:02:09,579: Node 0 received an SET y 8 request
+2024-03-25 02:02:10,440: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:10,478: Leader 0 renewed lease until 1711312336.4785905
+2024-03-25 02:02:10,478 - INFO - Node 0 committed the entry SET y 8 to state machine
+2024-03-25 02:02:11,481: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:11,521: Leader 0 renewed lease until 1711312337.5214887
+2024-03-25 02:02:12,523: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:12,546: Leader 0 renewed lease until 1711312338.5461879
+2024-03-25 02:02:13,548: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:13,591: Leader 0 renewed lease until 1711312339.5915844
+2024-03-25 02:02:14,592: Node 0 received an SET u 9 request
+2024-03-25 02:02:14,592: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:14,653: Leader 0 renewed lease until 1711312340.6536686
+2024-03-25 02:02:14,653 - INFO - Node 0 committed the entry SET u 9 to state machine
+2024-03-25 02:02:15,656: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:15,687: Leader 0 renewed lease until 1711312341.6870103
+2024-03-25 02:02:16,690: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:16,721: Leader 0 renewed lease until 1711312342.721452
+2024-03-25 02:02:17,722: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:17,753: Leader 0 renewed lease until 1711312343.7535803
+2024-03-25 02:02:18,755: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:18,782: Leader 0 renewed lease until 1711312344.7825644
+2024-03-25 02:02:19,785: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:19,811: Leader 0 renewed lease until 1711312345.8114002
+2024-03-25 02:02:20,812: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:20,862: Leader 0 renewed lease until 1711312346.862681
+2024-03-25 02:02:21,869: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:21,896: Leader 0 renewed lease until 1711312347.8965402
+2024-03-25 02:02:22,897: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:22,921: Leader 0 renewed lease until 1711312348.921772
+2024-03-25 02:02:23,924: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:23,950: Leader 0 renewed lease until 1711312349.950095
+2024-03-25 02:02:24,951: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:25,001: Leader 0 renewed lease until 1711312351.0012417
+2024-03-25 02:02:26,001: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:26,048: Leader 0 renewed lease until 1711312352.0487459
+2024-03-25 02:02:27,050: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:27,079: Leader 0 renewed lease until 1711312353.0788727
+2024-03-25 02:02:28,080: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:28,111: Leader 0 renewed lease until 1711312354.1119502
+2024-03-25 02:02:29,113: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:29,153: Leader 0 renewed lease until 1711312355.1534536
+2024-03-25 02:02:30,161: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:30,196: Leader 0 renewed lease until 1711312356.1967478
+2024-03-25 02:02:31,198: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:31,344: Leader 0 renewed lease until 1711312357.3440063
+2024-03-25 02:02:32,347: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:32,494: Leader 0 renewed lease until 1711312358.4945378
+2024-03-25 02:02:33,499: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:33,723: Leader 0 renewed lease until 1711312359.7235997
+2024-03-25 02:02:34,723: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:34,938: Leader 0 renewed lease until 1711312360.9380035
+2024-03-25 02:02:35,942: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:36,144: Leader 0 renewed lease until 1711312362.1449838
+2024-03-25 02:02:37,148: Leader 0 sending heartbeat & Renewing Lease
+2024-03-25 02:02:37,461: Leader 0 lease renewal failed. Stepping Down
+2024-03-25 02:02:37,741: Node 0 received an SET o 6 request
+2024-03-25 02:02:39,271: Node 0 received an SET o 6 request
+2024-03-25 02:02:42,146: Node 0 stepping down
+2024-03-25 02:02:46,498: Vote denied for Node 1 in term 2.
+2024-03-25 02:02:55,623: Node 0 election timer timed out, Starting election.
+2024-03-25 02:03:00,682: Vote denied for Node 1 in term 4.
+2024-03-25 02:03:05,704: Vote denied for Node 1 in term 5.
+2024-03-25 02:03:10,731: Vote denied for Node 1 in term 6.
+2024-03-25 02:03:15,776: Vote denied for Node 1 in term 7.
+2024-03-25 02:03:20,790: Vote denied for Node 1 in term 8.
+2024-03-25 02:03:25,814: Vote denied for Node 1 in term 9.
+2024-03-25 02:03:30,850: Vote denied for Node 1 in term 10.
+2024-03-25 02:03:35,881: Vote denied for Node 1 in term 11.
+2024-03-25 02:03:40,911: Vote denied for Node 1 in term 12.
+2024-03-25 02:03:45,946: Vote denied for Node 1 in term 13.
+2024-03-25 02:03:50,978: Vote denied for Node 1 in term 14.
+2024-03-25 02:03:56,014: Vote denied for Node 1 in term 15.
+2024-03-25 02:04:01,047: Vote denied for Node 1 in term 16.
+2024-03-25 02:04:06,078: Vote denied for Node 1 in term 17.
+2024-03-25 02:04:11,111: Vote denied for Node 1 in term 18.
+2024-03-25 02:04:16,144: Vote denied for Node 1 in term 19.
+2024-03-25 02:04:21,176: Vote denied for Node 1 in term 20.
+2024-03-25 02:04:26,203: Vote denied for Node 1 in term 21.
+2024-03-25 02:04:31,231: Vote denied for Node 1 in term 22.
+2024-03-25 02:04:36,263: Vote denied for Node 1 in term 23.
+2024-03-25 02:04:41,297: Vote denied for Node 1 in term 24.
+2024-03-25 02:04:46,323: Vote denied for Node 1 in term 25.
+2024-03-25 02:04:51,349: Vote denied for Node 1 in term 26.
+2024-03-25 02:04:56,380: Vote denied for Node 1 in term 27.
+2024-03-25 02:05:01,415: Vote denied for Node 1 in term 28.
+2024-03-25 02:05:06,440: Vote denied for Node 1 in term 29.
+2024-03-25 02:05:11,476: Vote denied for Node 1 in term 30.
+2024-03-25 02:05:16,501: Vote denied for Node 1 in term 31.
+2024-03-25 02:05:21,549: Vote denied for Node 1 in term 32.
+2024-03-25 02:05:26,584: Vote denied for Node 1 in term 33.
+2024-03-25 02:05:31,613: Vote denied for Node 1 in term 34.
+2024-03-25 02:05:36,655: Vote denied for Node 1 in term 35.
+2024-03-25 02:05:41,670: Vote denied for Node 1 in term 36.
+2024-03-25 02:05:46,694: Vote denied for Node 1 in term 37.
+2024-03-25 02:05:51,728: Vote denied for Node 1 in term 38.

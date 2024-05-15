@@ -1,0 +1,33 @@
+{
+    "current_term": 38,
+    "voted_for": null,
+    "log": [
+        {
+            "term": 1,
+            "command": "No Op"
+        },
+        {
+            "term": 1,
+            "command": "SET y 8"
+        },
+        {
+            "term": 1,
+            "command": "SET u 9"
+        },
+        {
+            "term": 1,
+            "command": "SET o 6"
+        },
+        {
+            "term": 1,
+            "command": "SET o 6"
+        }
+    ],
+    "commit_index": 3,
+    "last_applied": 3,
+    "leader_lease_end": null,
+    "state_machine": {
+        "y": "8",
+        "u": "9"
+    }
+}

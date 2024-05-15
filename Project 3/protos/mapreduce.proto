@@ -1,0 +1,86 @@
+syntax = "proto3";
+package kmeans;
+
+message Point {
+  float x = 1;
+  float y = 2;
+}
+
+message Centroid {
+  int32 id = 1;
+  Point point = 2;
+}
+
+message Centroids {
+  repeated Centroid centroids = 1;
+}
+
+
+message MapTaskRequest {
+  int32 start = 1;
+  int32 end = 2;
+  int32 M = 3;
+  int32 R = 4;
+  int32 K = 5;
+  Centroids centroids = 6;
+  int32 iteration_num = 7;
+}
+
+
+message MapTaskResponse {
+  string status = 1;
+}
+
+
+message ReduceTaskRequest {
+  int32 M = 1;
+  int32 K = 2;
+  int32 R = 3;
+  int32 iteration_num = 4;
+  int32 partition_id = 5;
+}
+
+
+message CentroidUpdate {
+  int32 key = 1;
+  Point centroid = 2;
+}
+
+message CentroidUpdates {
+  repeated CentroidUpdate updates = 1;
+}
+
+message ReduceTaskResponse {
+  string status = 1;
+  CentroidUpdates centroid_updates = 2;
+}
+
+message FetchDataFromMapperRequest {
+  int32 reducer_id = 1;
+}
+
+message KeyValuePair {
+  int32 key = 1;
+  Point value = 2;
+}
+
+message FetchDataFromMapperResponse {
+  string status = 1;
+  repeated KeyValuePair data = 2; // List of dictionaries (key-value pairs)
+}
+
+// The MapReduce service definition.
+service MapReduce {
+  // Method for the Master to start a map task on a Mapper.
+  rpc StartMapTask(MapTaskRequest) returns (MapTaskResponse) {}
+
+  // Method for the Master to start a reduce task on a Reducer.
+  rpc StartReduceTask(ReduceTaskRequest) returns (ReduceTaskResponse) {}
+
+  // Method for a Reducer to fetch data from a Mapper.
+  rpc FetchDataFromMapper(FetchDataFromMapperRequest) returns (FetchDataFromMapperResponse) {}
+}
+
+service ServeReducer {
+
+}

@@ -1,0 +1,69 @@
+syntax = "proto3";
+
+package raft;
+
+// The service definition.
+service RaftService {
+  // Client-facing RPC for interacting with the key-value store
+  rpc ServeClient (ServeClientArgs) returns (ServeClientReply) {}
+
+  // Raft internal RPC for log replication
+  rpc AppendEntries (AppendEntriesArgs) returns (AppendEntriesReply) {}
+
+  // Raft internal RPC for leader election
+  rpc RequestVote (RequestVoteArgs) returns (RequestVoteReply) {}
+}
+
+// The request message containing the client's request.
+message ServeClientArgs {
+  string request = 1;
+}
+
+// The response message containing the server's response.
+message ServeClientReply {
+  string data = 1;         // The value in case of 'GET', or confirmation in case of 'SET'
+  int32 leader_id = 2;    // The identifier of the current leader
+  bool success = 3;        // Whether the operation was successful
+  int32 statusCode=4;
+}
+
+// Arguments for AppendEntries RPC call.
+message AppendEntriesArgs {
+  int32 term = 1;             // Leader's term
+  int32 leader_id = 2;       // So follower can redirect clients
+  int32 prev_log_index = 3;   // Index of log entry immediately preceding new ones
+  int32 prev_log_term = 4;    // Term of prev_log_index entry
+  repeated LogEntry entries = 5;  // Log entries to store (empty for heartbeat)
+  int32 leader_commit = 6;    // Leader’s commitIndex
+  double leader_lease_duration = 7;  // Leader lease duration for faster reads (optional for assignment)
+}
+
+// Reply for AppendEntries RPC call.
+message AppendEntriesReply {
+  int32 term = 1;       // CurrentTerm, for leader to update itself
+  bool success = 2;     // True if follower contained entry matching prevLogIndex and prevLogTerm
+  int32 statusCode=3;
+}
+
+// Arguments for RequestVote RPC call.
+message RequestVoteArgs {
+  int32 term = 1;              // Candidate's term
+  int32 candidate_id = 2;     // Candidate requesting vote
+  int32 last_log_index = 3;    // Index of candidate’s last log entry
+  int32 last_log_term = 4;     // Term of candidate’s last log entry
+  int32 leader_lease_end = 5;  // The end time of the leader's lease (optional for assignment
+}
+
+// Reply for RequestVote RPC call.
+message RequestVoteReply {
+  int32 term = 1;          // CurrentTerm, for candidate to update itself
+  bool vote_granted = 2;   // True means candidate received vote
+  int32 statusCode=3;
+  double leader_lease_end = 4;
+}
+
+// Log entry messages stored in the log.
+message LogEntry {
+  string command = 1;  // Command to be applied to the state machine
+  int32 term = 2;      // Term when entry was received by leader
+}

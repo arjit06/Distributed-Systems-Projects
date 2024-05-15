@@ -1,0 +1,902 @@
+Initial Centroids: [array([12.28900822, 76.22457846]), array([30.93467269, 62.34121835]), array([81.15927937, 57.75036004])]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 1 , Updated Centroids: [[14.8087739944458, 77.05641174316406], [26.271589279174805, 49.3497428894043], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 2 , Updated Centroids: [[21.941030502319336, 77.88694763183594], [22.896568298339844, 41.69635772705078], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 3 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 4 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 5 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 6 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 7 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 8 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 9 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 10 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 11 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 12 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 13 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 14 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 15 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 16 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 17 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 18 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 19 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 20 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 21 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 22 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 23 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 24 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 25 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 26 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 27 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 28 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 29 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 30 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 31 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 32 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 33 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 34 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 35 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 36 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 37 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 38 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 39 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 40 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 41 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 42 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 43 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 44 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 45 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 46 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 47 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 48 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 49 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 50 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 51 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 52 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 53 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 54 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 55 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 56 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 57 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 58 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 59 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 60 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 61 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 62 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 63 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 64 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 65 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 66 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 67 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 68 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 69 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 70 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 71 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 72 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 73 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 74 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 75 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 76 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 77 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 78 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 79 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 80 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 81 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 82 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 83 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 84 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 85 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 86 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 87 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 88 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 89 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 90 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 91 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 92 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 93 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 94 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 95 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 96 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 97 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 98 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 1
+SUCCESS:Response received from Mapper 2
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 2 for partition 2
+SUCCESS:Response received from Reducer 1 for partition 1
+Iteration: 99 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+Request sent to mapper 1
+Request sent to mapper 2
+SUCCESS:Response received from Mapper 2
+SUCCESS:Response received from Mapper 1
+Request sent to reducer 1
+Request sent to reducer 2
+SUCCESS:Response received from Reducer 1 for partition 1
+SUCCESS:Response received from Reducer 2 for partition 2
+Iteration: 100 , Updated Centroids: [[23.860368728637695, 74.24312591552734], [20.33607292175293, 35.09856033325195], [80.42453002929688, 42.03826141357422]]
+KMeans Clustering completed. Centroids have been saved

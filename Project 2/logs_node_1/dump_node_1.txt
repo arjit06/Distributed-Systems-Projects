@@ -1,0 +1,101 @@
+2024-03-25 02:01:34,611: Vote granted for Node 0 in term 1.
+2024-03-25 02:01:34,821: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:36,037: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:36,038 - INFO - Node 1 committed the entry No Op to state machine
+2024-03-25 02:01:37,164: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:38,282: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:39,337: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:40,361: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:41,402: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:42,451: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:43,487: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:44,525: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:45,562: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:46,612: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:47,643: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:48,681: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:49,711: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:50,751: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:51,783: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:52,821: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:53,861: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:54,918: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:55,960: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:57,004: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:58,035: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:01:59,061: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:00,096: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:01,138: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:02,187: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:03,221: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:04,251: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:05,273: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:06,304: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:07,339: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:08,361: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:09,391: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:10,441: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:11,481: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:11,491 - INFO - Node 1 committed the entry SET y 8 to state machine
+2024-03-25 02:02:12,523: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:13,554: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:14,608: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:15,661: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:15,663 - INFO - Node 1 committed the entry SET u 9 to state machine
+2024-03-25 02:02:16,694: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:17,728: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:18,761: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:19,788: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:20,816: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:21,871: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:22,901: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:23,929: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:24,961: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:26,010: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:27,057: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:28,086: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:29,120: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:30,167: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:31,201: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:32,356: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:33,504: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:34,723: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:35,947: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:37,154: Node 1 accepted AppendEntries RPC from 0.
+2024-03-25 02:02:46,469: Node 1 election timer timed out, Starting election.
+2024-03-25 02:02:55,637: Vote granted for Node 0 in term 3.
+2024-03-25 02:03:00,666: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:05,694: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:10,721: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:15,754: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:20,781: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:25,807: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:30,843: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:35,866: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:40,899: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:45,935: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:50,967: Node 1 election timer timed out, Starting election.
+2024-03-25 02:03:56,006: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:01,041: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:06,068: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:11,098: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:16,134: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:21,164: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:26,187: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:31,218: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:36,252: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:41,286: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:46,316: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:51,341: Node 1 election timer timed out, Starting election.
+2024-03-25 02:04:56,374: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:01,396: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:06,435: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:11,468: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:16,497: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:21,530: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:26,567: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:31,594: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:36,633: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:41,662: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:46,692: Node 1 election timer timed out, Starting election.
+2024-03-25 02:05:51,720: Node 1 election timer timed out, Starting election.
